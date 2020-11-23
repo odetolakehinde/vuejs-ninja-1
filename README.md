@@ -1,2 +1,2 @@
 # vuejs-ninja-1
-Our first task,
+Our first task
