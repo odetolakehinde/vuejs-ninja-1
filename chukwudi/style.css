@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+}
+
+h1 {
+    color: black;
+}
+
+img {
+    padding: 10px;
+    size: 10px;
+}
+
+a {
+    color: black;
+    padding: 20px;
+    text-align: left;
+}
+
+.jumbotron {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 70%;
+    background-blend-mode: inherit;
+    background-position: right;
+}
+
+.display-4 {
+    font-size: 60px;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
